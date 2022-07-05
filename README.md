@@ -1,6 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="400"/>
+  <img src="[https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif](https://media-exp2.licdn.com/dms/image/C4E03AQHpQtDE_RtTcg/profile-displayphoto-shrink_800_800/0/1641491774182?e=1662595200&v=beta&t=XsHtz7CGSw5jHaUvKtmRdPLRxOT90Zc18HBCCyQv1zM)" width="400"/>
 </div>
+
+
+
 
 <!--
 **danimir77/danimir77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
