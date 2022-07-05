@@ -1,11 +1,28 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="400"/>
- </div>
 
-Hello!!!! <img src="[/J-Prado/J-Prado/raw/main/github-header-image.png](https://user-images.githubusercontent.com/73600438/177397979-f9ddc902-3eab-4991-aea2-b5e5ee183cfa.jpg)" alt="Header" style="max-width: 100%;">
+![github-header-image](https://user-images.githubusercontent.com/73600438/177398396-0cd50683-20e4-4d52-8b9c-a704f5ff3f93.png)
+<h1> What about me?</h1>
+<h3>Hello! I am a computer technician and an Economist. Throughout my career I have worked integrating process consulting, statistics and software development.
+I have also graduated as a Fullstack developer at SoyHenry.com with the purpose of using all my knowledge developing software.
+I started in 2007 in an international business consultancy. I was a analyst leader. I had the opportunity to manage teams in transformation projects but mainly doing process analysis.
+Since 2015 I founded Factum Consultancy. As a consultant I have developed desktop solutions in VB.Net+ Mysql and then Web apps in JavaScript+PHP in order to improve industrial processes, productivity and quality.
+I have gained experience in more than 50 companies in many countries in America, and in many diverse areas. I believe that this experience has allowed me to understand clients and customers' needs very well.
 
-![fotomiapequenia](https://user-images.githubusercontent.com/73600438/177397979-f9ddc902-3eab-4991-aea2-b5e5ee183cfa.jpg)M
+I enjoy developing applications that make people's work easier and allow them to add more value to their businesses.</h3>
 
+<h1> Tech Skills</h1>
+<ul>
+  <li>JavaScript
+  <li>Node Js - Express - EJS
+  <li>React Js - MUI
+  <li>Sequelize
+  <li>PHP
+  <li>Vb.net
+  <li> MySql - PostreSql - Sql Server
+  <li>Python - CNN - Custom Object Detection
+  <li>Statistics, Data Science
+</ul>
+<h1> If you need some developer, contact me! </h1>
+  
 
 
 
@@ -23,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
