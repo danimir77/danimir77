@@ -13,9 +13,8 @@ I enjoy developing applications that make people's work easier and allow them to
 <ul>
   <li>JavaScript
   <li>Node Js - Express - EJS
-  <li>React Js - MUI
+  <li>React Js 
   <li>Sequelize
-  <li>PHP
   <li>Vb.net
   <li> MySql - PostreSql - Sql Server
   <li>Python - CNN - Custom Object Detection
