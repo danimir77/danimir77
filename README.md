@@ -20,7 +20,7 @@ I enjoy developing applications that make people's work easier and allow them to
   <li>Python - CNN - Custom Object Detection
   <li>Statistics, Data Science
 </ul>
-<h1> If you need some developer, contact me! </h1>
+<h1> If you need a developer, contact me! </h1>
   
 
 
