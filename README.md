@@ -11,6 +11,7 @@ I enjoy developing applications that make people's work easier and allow them to
 
 <h1> Tech Skills</h1>
 <ul>
+  <li>PHP
   <li>JavaScript
   <li>Node Js - Express - EJS
   <li>React Js 
