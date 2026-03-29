@@ -1,43 +1,32 @@
+# 🚀 Industrial Solutions Strategist | Vibe Coding & Process Engineering
 
-![github-header-image](https://user-images.githubusercontent.com/73600438/177398396-0cd50683-20e4-4d52-8b9c-a704f5ff3f93.png)
-<h1> What about me?</h1>
-<h3>Hello! I am a computer technician and an Economist. Throughout my career I have worked integrating process consulting, statistics and software development.
-I have also graduated as a Fullstack developer at SoyHenry.com with the purpose of using all my knowledge developing software.
-I started in 2007 in an international business consultancy. I was a analyst leader. I had the opportunity to manage teams in transformation projects but mainly doing process analysis.
-Since 2015 I founded Factum Consultancy. As a consultant I have developed desktop solutions in VB.Net+ Mysql and then Web apps in JavaScript+PHP in order to improve industrial processes, productivity and quality.
-I have gained experience in more than 50 companies in many countries in America, and in many diverse areas. I believe that this experience has allowed me to understand clients and customers' needs very well.
+**Economist & Solutions Developer** con 20 años de experiencia transformando la complejidad operativa en sistemas escalables y basados en datos. Mi enfoque es diseñar el **ROI** de las operaciones industriales a través de la automatización inteligente y el "Vibe Coding".
 
-I enjoy developing applications that make people's work easier and allow them to add more value to their businesses.</h3>
+### 🛠️ El Enfoque: Vibe Coding & Ingeniería de Procesos
+Cierro la brecha entre el "Caos Operativo" y soluciones de software elegantes. Aprovechando mi formación de Economista y técnico en computación, capacitado en **Lean Six Sigma, SPC y BPM**, construyo aplicaciones que no solo "funcionan", sino que optimizan y escalan.
 
-<h1> Tech Skills</h1>
-<ul>
-  <li>PHP
-  <li>JavaScript
-  <li>Node Js - Express - EJS
-  <li>React Js 
-  <li>Sequelize
-  <li>Vb.net
-  <li> MySql - PostreSql - Sql Server
-  <li>Python - CNN - Custom Object Detection
-  <li>Statistics, Data Science
-</ul>
-<h1> If you need a developer, contact me! </h1>
-  
+* **Lógica Primero:** +18 años analizando más de 500 procesos en 55 empresas de 5 países.
+* **Soluciones Rápidas:** Transición de estados "AS-IS" a "TO-BE" mediante SaaS personalizados y aplicaciones web industriales.
+* **Data-Driven:** Integración de Power BI y Control Estadístico de Procesos (SPC) en cada desarrollo.
 
+---
 
+### 💼 Trayectoria Industrial y Logros
+* **Head of Software Development @ Arion:** Liderazgo de más de 10 desarrolladores, reduciendo el Cycle Time en un 25% y mejorando la estabilidad del software en un 50%.
+* **Fundador y Consultor @ Factum:** Desarrollo de SaaS a medida para industrias globales (ej. McCain), gestionando más de 1.500 usuarios en 3 países.
 
-<!--
-**danimir77/danimir77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Tech Stack & Expertise
+* **Lenguajes y Frameworks:** PHP, JavaScript, MySQL, SQL Server.
+* **Maestría en Procesos:** Lean Six Sigma (Experto), BPM, VSM, Kaizen, 5S, ISO 9001.
+* **Analítica:** Power BI, Data Science, Control Estadístico de Procesos (SPC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+### 📫 Conectemos
+* **LinkedIn:** [linkedin.com/in/danimirlorkovic](https://www.linkedin.com/in/danimirlorkovic)
+* **Ubicación:** Belgrano R, CABA - Argentina
+* **Filosofía:** "Si no puedes medirlo, no puedes mejorarlo."
+
+---
