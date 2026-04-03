@@ -13,7 +13,7 @@ Cierro la brecha entre el "Caos Operativo" y soluciones de software elegantes. A
 
 ### 💼 Trayectoria Industrial y Logros
 * **Head of Software Development @ Arion:** Liderazgo de más de 10 desarrolladores, reduciendo el Cycle Time en un 25% y mejorando la estabilidad del software en un 50%.
-* **Fundador y Consultor @ Factum:** Desarrollo de SaaS a medida para industrias globales (ej. McCain), gestionando más de 1.500 usuarios en 3 países.
+* **Fundador y Consultor @ Factum:** Desarrollo de SaaS a medida para industrias globales, gestionando más de 1.500 usuarios en 3 países.
 
 ---
 
